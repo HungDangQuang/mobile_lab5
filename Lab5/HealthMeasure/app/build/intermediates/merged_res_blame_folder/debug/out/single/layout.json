@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/quanghung/Desktop/Lab5_Mobile/Lab5/HealthMeasure/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_prepare.xml",
+        "source": "/Users/quanghung/Desktop/Lab5_Mobile/Lab5/HealthMeasure/app/src/main/res/layout/fragment_prepare.xml"
+    },
+    {
+        "merged": "/Users/quanghung/Desktop/Lab5_Mobile/Lab5/HealthMeasure/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_startup.xml",
+        "source": "/Users/quanghung/Desktop/Lab5_Mobile/Lab5/HealthMeasure/app/src/main/res/layout/fragment_startup.xml"
+    },
+    {
+        "merged": "/Users/quanghung/Desktop/Lab5_Mobile/Lab5/HealthMeasure/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_not_available.xml",
+        "source": "/Users/quanghung/Desktop/Lab5_Mobile/Lab5/HealthMeasure/app/src/main/res/layout/fragment_not_available.xml"
+    },
+    {
+        "merged": "/Users/quanghung/Desktop/Lab5_Mobile/Lab5/HealthMeasure/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_exercise.xml",
+        "source": "/Users/quanghung/Desktop/Lab5_Mobile/Lab5/HealthMeasure/app/src/main/res/layout/fragment_exercise.xml"
+    },
+    {
+        "merged": "/Users/quanghung/Desktop/Lab5_Mobile/Lab5/HealthMeasure/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/quanghung/Desktop/Lab5_Mobile/Lab5/HealthMeasure/app/src/main/res/layout/activity_main.xml"
+    }
+]
